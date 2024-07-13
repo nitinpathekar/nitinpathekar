@@ -56,7 +56,7 @@ Nitin Pathekar is a dedicated Computer Science undergraduate at Samrat Ashok Tec
                     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" />
                     </picture>
                     </a></p>
-                    <br>
+                
                     
 ### Badges
 <b>My GitHub Stats</b><a
