@@ -9,12 +9,13 @@ Nitin Pathekar is a dedicated Computer Science undergraduate at Samrat Ashok Tec
 *   🌍  I'm based in Vidisha
 *   ✉️  You can contact me at [nitinsardarpathekar@gmail.com](mailto:nitinsardarpathekar@gmail.com)
 *   🧠  I'm learning Angular
-*   <br>
+   <br>
 <br>
 <a href="https://www.github.com/nitinpathekar" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/nitinpathekar?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/nitin_pathekar" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/nitin_pathekar?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
                 /></a>
+<br>
 ### Skills
 
 <p align="left">
