@@ -15,7 +15,6 @@
 - Passionate about building full-stack web apps using **MERN stack**
 - Solving problems in **C++** and exploring **Data Structures & Algorithms**
 - Top 3 in 2023 College Hackathon organized by **FLUX SATI**
-- Currently learning **System Design**, **TypeScript**, and **Cloud (AWS/GCP)**
 - Let's talk about **APIs**, **MongoDB**, or **React Projects**
 
 ---
