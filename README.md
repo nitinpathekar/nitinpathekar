@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! 👋 I'm Nitin Pathekar</h1>
-<h3 align="center">Full-Stack Developer | MERN Enthusiast | Lifelong Learner</h3>
+<h3 align="center">Full-Stack Developer | Lifelong Learner</h3>
 
 <p align="center">
   <a href="mailto:nitinsardarpathekar@email.com"><img src="https://img.shields.io/badge/Email-Drop%20a%20Hi-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -53,7 +53,7 @@
 
 - **Email:** [nitinsardarpathekar@email.com](mailto:nitinsardarpathekar@email.com)  
 - **LinkedIn:** [linkedin.com/in/nitin-pathekar](https://www.linkedin.com/in/nitin-pathekar/)  
-- **Portfolio:** *Coming Soon*
+
 
 ---
 
